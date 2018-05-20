@@ -1,0 +1,14 @@
+[
+  {
+    "outputFileName": "Content/bootstrap-yeti.min.css",
+    "inputFiles": [
+      "Content/bootstrap-yeti.css"
+    ]
+  },
+  {
+    "outputFileName": "Content/Site.min.css",
+    "inputFiles": [
+      "Content/Site.css"
+    ]
+  }
+]
